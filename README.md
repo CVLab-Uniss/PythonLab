@@ -9,19 +9,22 @@
 ### Nel nostro caso useremo VGG16 che è stata addestrata a distinguere 1000 oggetti diversi ​
 
 ### Per la lista degli oggetti andare al sito: 
-''' bash
+
+```bash
 https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a  ​
-'''
+```
 
 ---
 
-### ​Scaricate dal repo di GitHub fornito il file ​
+### ​Scaricate dal repo di GitHub il file ​
 
-''' bash
-VGG16_example.txt​
-'''
+```bash
+VGG16_example.py​
+```
 
 ### ​Copiate e incollate il codice nella finestra Colab​.
+
+---
 
 ### Scaricate da internet una immagine con un elemento che volete classificare e caricatela su Colab.​
 
